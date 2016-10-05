@@ -63,3 +63,4 @@ TRANSLATIONS = \
     bitmessage_zh_cn.ts
 
 CODECFORTR      = UTF-8
+CODECFORSRC     = UTF-8
